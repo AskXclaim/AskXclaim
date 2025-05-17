@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer
 --------------------
 
-A highly skilled full-stack software developer with years of industry experience, specializing in modern frameworks and cloud technologies. Languages: C#, JavaScript (ES6+)/Typescript, SQL, CSS/PostCSS/SCSS Databases: MS SQL, PostgreSQL, MongoDB Frameworks& Libraries: React.js/Redux, Vue.js/Pinia, jQuery, .NET Framework/.NET Core, ASP.NET (MVC/Razor/API), Entity Framework, Bootstrap, Tailwind CSS, GDS, Cypress, Cucumber Tools: Docker/Colima, Kubernetes, Azure Boards, Azure DevOps, Jira, TeamCity, Bitbucket, GitHub, CircleCi, JFrog, Webpack, Vite, Babel, Splunk, Grafana, Prometheus Platforms: Azure, AWS Others: RabbitMQ, Azure Service Bus, Scrum, Kanban, ScrumBan, TDD, BDD, DDD Some Architectures used: Event-Driven Microservices, MACH, Vertical, N-Tier
+A highly skilled full-stack software developer with years of industry experience, specialising in modern frameworks and cloud technologies. Languages: C#, JavaScript (ES6+)/Typescript, SQL, CSS/PostCSS/SCSS Databases: MS SQL, PostgreSQL, MongoDB Frameworks& Libraries: React.js/Redux, Vue.js/Pinia, jQuery, .NET Framework/.NET Core, ASP.NET (MVC/Razor/API), Entity Framework, Bootstrap, Tailwind CSS, GDS, Cypress, Cucumber Tools: Docker/Colima, Kubernetes, Azure Boards, Azure DevOps, Jira, TeamCity, Bitbucket, GitHub, CircleCi, JFrog, Webpack, Vite, Babel, Splunk, Grafana, Prometheus Platforms: Azure, AWS Others: RabbitMQ, Azure Service Bus, Scrum, Kanban, ScrumBan, TDD, BDD, DDD Some Architectures used: Event-Driven Microservices, MACH, Vertical, N-Tier
 
-* 🌍  I'm based in United Kingdom
+* 🌍  I'm based in the United Kingdom
 * ✉️  You can contact me at [kola.abolarinwa@gmail.com](mailto:kola.abolarinwa@gmail.com)
-* 🚀  I'm currently working on [An E-commerce Microservice application](http://github.com/AskXclaim/EShopMicroservices)
-* 🧠  I'm learning Other ways of implementing .NETCore microservices
+* 🚀  I'm currently creating sets of small [sometimes simple] web applications using [Typescript/Javascript](https://github.com/AskXclaim/geek_javascript) & [React](https://github.com/AskXclaim/geek_reactjs)
+* 🧠  I'm looking to explore Java's Quarkus
 * ⚡  ... laughter is the pleasant music of a joyful soul
 
 ### Skills
